@@ -1,0 +1,9 @@
+/* En tu archivo CSS principal, por ejemplo, src/App.css */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {font-size: 13px;}
+
+
+.btn {font-size: 13px;}
